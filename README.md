@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning on **Flutter Development and Java+Dsa**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ sumit-pandey-22260323b](www.linkedin.com/in/ sumit-pandey-22260323b)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ sumit-pandey-22260323b]
 
 - 💬 Ask me about **Software and Flutter Development**
 
